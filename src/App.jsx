@@ -1,6 +1,6 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 import AppRoutes from './Routes/AppRoutes';
 import { FirebaseProvider } from './Context/FirebaseContext';
 
